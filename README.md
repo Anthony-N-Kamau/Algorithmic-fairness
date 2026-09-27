@@ -87,7 +87,3 @@ Open `algorithmic_fairness.ipynb` in Jupyter or Google Colab, ensure the
 German Credit dataset is placed as described above, then run all cells top
 to bottom. The notebook was authored and exported from Google Colab, using
 `nbconvert` and `xelatex` to produce the accompanying PDF.
-
-## Author
-
-Anthony Kamau
